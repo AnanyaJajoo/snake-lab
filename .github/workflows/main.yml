@@ -28,4 +28,3 @@ jobs:
         with:
           branch: main
           folder: .
-          repository-name: onideus/onideus.github.io
